@@ -436,6 +436,11 @@ button:hover {
 }
 
 
+.service-item .f-fourth-service-icon {
+    background-image: url(../images/linkedin.png);
+}
+
+
 /* My Work */
 
 section.my-work .section-heading {
